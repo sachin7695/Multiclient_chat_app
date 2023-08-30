@@ -2,7 +2,8 @@
 
 A chatroom built in C++ using the concepts of socket programming and multi-threading. It supports chatting among multiple clients.
 
-![](/screenshot.png)
+![chatapp](https://github.com/sachin7695/Multiclient_chat_app/assets/62798405/744e0e5a-0ffd-4fa3-8d77-2d9733721930)
+
 ## How to run
 
 1. Clone this repository
